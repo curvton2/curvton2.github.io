@@ -49,7 +49,7 @@ h1 .desc{display:block;max-width:900px;margin:10px auto 0;font-size:clamp(1.22re
 .logos .lg{display:block;line-height:0;opacity:.92;transition:opacity .2s,transform .2s var(--ease)}
 .logos .lg:hover{opacity:1;transform:translateY(-2px)}
 .logos img{display:block;width:auto;max-width:none;height:calc(var(--h)*var(--k))}
-.lg-tu{--h:50px}.lg-fog{--h:32px}.lg-ucd{--h:48px}.lg-abdn{--h:36px}.lg-naamii{--h:26px}
+.lg-tu{--h:50px}.lg-fog{--h:32px}.lg-ucl{--h:28px}.lg-abdn{--h:36px}.lg-naamii{--h:26px}
 .lg-br{display:none}
 @media (max-width:760px){.logos{--k:.8;row-gap:7px;margin-top:18px}.lg-br{display:block;flex-basis:100%;height:0}}
 .buttons{margin:24px 0 6px;display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
